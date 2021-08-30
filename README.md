@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Zuber Dunge
+# 👋 Hi, I’m Zuber!
 - 👀 I’m interested in Web Development, UI/UX Design!
 - 💞️ I’m looking to collaborate on pair programming.
 ### 📫 How to reach me : 
