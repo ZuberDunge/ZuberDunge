@@ -1,3 +1,5 @@
+[![Social banner for jh3y](https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif)](https://zuberdunge.netlify.app)
+
 # 👋 Hi, I’m Zuber!
 - I’m interested in Web Development, UI/UX Design!
 - I’m looking to collaborate on pair programming.
