@@ -4,7 +4,7 @@
 - I’m interested in Web Development, UI/UX Design!
 - I’m looking to collaborate on pair programming.
 
-![Zuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZuberDunge&hide=stars&show_icons=true&theme=radical)
+![Zuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZuberDunge&hide=stars&show_icons=true&count_private=true&theme=radical)
 
 
 ### 📫 How to reach me : 
