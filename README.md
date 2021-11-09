@@ -41,7 +41,7 @@
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZuberDunge&theme=dark&hide_border=true&background=0D1117&stroke=0000">
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zuberdunge&label=Profile%20views&color=0e75b6&style=flat" alt="zuberdunge" /> </p>
 
 
 
