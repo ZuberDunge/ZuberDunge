@@ -4,6 +4,10 @@
 
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Zuber!
 
+## Streaks
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZuberDunge&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -37,9 +41,6 @@
   <a href="mailto:iamZuberDunge@gmail.com?subject=Hello%20Zuber,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p><br/>
   
-## Streaks
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZuberDunge&theme=dark&hide_border=true&background=0D1117&stroke=0000">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zuberdunge&label=Profile%20views&color=0e75b6&style=flat" alt="zuberdunge" /> </p>
 
