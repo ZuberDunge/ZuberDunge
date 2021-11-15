@@ -6,7 +6,7 @@
 
 ## Streaks
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZuberDunge&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://zuberdunge.tech)
+[![GitHub Streak]()](https://zuberdunge.tech)
 
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
