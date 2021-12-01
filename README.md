@@ -1,16 +1,10 @@
 <div align=center>
-
-[![Social banner for jh3y](https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif)](https://zuberdunge.netlify.app)
-
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Zuber!
-
-## Streaks
-  [![Zuber's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZuberDunge&theme=react-dark)](https://ZuberDunge.tech)
-
-
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuberDunge&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://zuberdunge.tech)
-
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Zuber! 
+  
+## A FrontEnd Developer
+  
+[![Social banner for jh3y](https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif)](https://zuberdunge.netlify.app)
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -27,6 +21,19 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   
   
+  
+
+
+## Streaks
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuberDunge&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://zuberdunge.tech)
+  
+  [![Zuber's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZuberDunge&theme=react-dark)](https://ZuberDunge.tech)
+
+
+  
+
+
+
   
   
   
