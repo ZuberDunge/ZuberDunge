@@ -39,7 +39,7 @@
 <div>
       <a href="https://zuberdunge.hashnode.dev/building-cryptoknight-using-react-js"><img align="right" width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638102631053%2FWuiH-khQm.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
 	    <a href="https://zuberdunge.hashnode.dev/building-cryptoknight-using-react-js">
-		<b>Building CryptoKnight : A Beginner Level ReactJS Project</b></a>
+		<b>Building CryptoKnight</b></a>
 	  <br/>
 	  <br/>
 	  <br/>
