@@ -1,12 +1,6 @@
 <div align=center>
   
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Zuber! 
-  
-## A FrontEnd Developer
-  
-[![Social banner for jh3y](https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif)](https://zuberdunge.netlify.app)
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<a href="https://zuberdunge.tech"><img src="images/GitHub-Banner.svg" width="100%"></a>
 
 ## ⚡ Technologies
   
@@ -21,7 +15,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  
+ 
+
+[![Social banner for jh3y](https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif)](https://zuberdunge.netlify.app)
+### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+	
 ## Streaks
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuberDunge&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://zuberdunge.tech)
   <br>
