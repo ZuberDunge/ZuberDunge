@@ -1,6 +1,6 @@
 <div align=center>
   
-<a href="https://zuberdunge.tech"><img src="images/GitHub-Banner.svg" width="100%"></a>
+<a href="https://zuberdunge.tech"><img src="images/GitHub-Banner-no-photo.svg" width="100%"></a>
 
 ## ⚡ Technologies
   
