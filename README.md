@@ -1,6 +1,8 @@
 <div align=center>
   
 <a href="https://zuberdunge.tech"><img src="images/GitHub-Banner-no-photo.svg" width="100%"></a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zuberdunge&label=Profile%20views&color=0e75b6&style=flat" alt="zuberdunge" /> </p>
 	
 ## ⚡ Technologies
   
@@ -26,6 +28,8 @@
   <br>
  <br>
 	 <br>
+
+## Graph
   [![Zuber's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZuberDunge&theme=react-dark)](https://ZuberDunge.tech)
   
 ## Stats
@@ -35,34 +39,31 @@
   
 ## My Blogs ✨
 
-<div>
-      <a href="https://zuberdunge.hashnode.dev/building-cryptoknight-using-react-js"><img align="right" width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638102631053%2FWuiH-khQm.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
+<div  align="center">
+      <a href="https://zuberdunge.hashnode.dev/building-cryptoknight-using-react-js"><img width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638102631053%2FWuiH-khQm.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
 	    <a href="https://zuberdunge.hashnode.dev/building-cryptoknight-using-react-js">
 		<b>Building CryptoKnight</b></a>
-	  <br/>
-	  <br/>
-	  <br/>
-	  <hr/>   
+	
+	  
+<hr>   
 </div>
 
-<div>
-      <a href="https://zuberdunge.hashnode.dev/introduction-to-git"><img align="right" width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1624021998816%2FddYZlmjc-.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
+<div  align="center">
+      <a href="https://zuberdunge.hashnode.dev/introduction-to-git"><img width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1624021998816%2FddYZlmjc-.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
 	    <a href="https://zuberdunge.hashnode.dev/introduction-to-git">
 		<b>Introduction to Git!</b></a>
- <br/>
-	  <br/>
-	  <br/>
-	  <hr/>
+
+	 
+<hr>
 </div>
 
-<div>
-      <a href="https://zuberdunge.hashnode.dev/a-complete-guide-for-http-status-codes"><img align="right" width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1627229096382%2FHLbq_rm06.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
+	
+<div  align="center">
+      <a href="https://zuberdunge.hashnode.dev/a-complete-guide-for-http-status-codes"><img  width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1627229096382%2FHLbq_rm06.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
 	    <a  align="left" href="https://zuberdunge.hashnode.dev/a-complete-guide-for-http-status-codes">
 		<b>A Complete Guide for HTTP Status Codes!</b></a>
- <br/>
-	  <br/>
-	  <br/>
-	  <hr/>
+ 
+<hr>
 </div>
   
   
@@ -80,7 +81,5 @@
   <a href="mailto:iamZuberDunge@gmail.com?subject=Hello%20Zuber,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p><br/>
   
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zuberdunge&label=Profile%20views&color=0e75b6&style=flat" alt="zuberdunge" /> </p>
 
 
