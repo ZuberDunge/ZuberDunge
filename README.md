@@ -1,7 +1,7 @@
 <div align=center>
   
 <a href="https://zuberdunge.tech"><img src="images/GitHub-Banner-no-photo.svg" width="100%"></a>
-
+	
 ## ⚡ Technologies
   
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
