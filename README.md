@@ -25,6 +25,9 @@
   
 ## Streaks
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuberDunge&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://zuberdunge.tech)
+  <br>
+ <br>
+	 <br>
   [![Zuber's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZuberDunge&theme=react-dark)](https://ZuberDunge.tech)
   
 ## Stats
