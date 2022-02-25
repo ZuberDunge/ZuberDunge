@@ -37,34 +37,7 @@
 <!-- ![Zuber's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuberDunge&layout=compact&theme=radical) -->
 
   
-## My Blogs ✨
 
-<div  align="center">
-      <a href="https://zuberdunge.hashnode.dev/building-cryptoknight-using-react-js"><img width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638102631053%2FWuiH-khQm.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
-	    <a href="https://zuberdunge.hashnode.dev/building-cryptoknight-using-react-js">
-		<b>Building CryptoKnight</b></a>
-	
-	  
-<hr>   
-</div>
-
-<div  align="center">
-      <a href="https://zuberdunge.hashnode.dev/introduction-to-git"><img width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1624021998816%2FddYZlmjc-.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
-	    <a href="https://zuberdunge.hashnode.dev/introduction-to-git">
-		<b>Introduction to Git!</b></a>
-
-	 
-<hr>
-</div>
-
-	
-<div  align="center">
-      <a href="https://zuberdunge.hashnode.dev/a-complete-guide-for-http-status-codes"><img  width="180" src="https://zuberdunge.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1627229096382%2FHLbq_rm06.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><br/>
-	    <a  align="left" href="https://zuberdunge.hashnode.dev/a-complete-guide-for-http-status-codes">
-		<b>A Complete Guide for HTTP Status Codes!</b></a>
- 
-<hr>
-</div>
   
   
   
