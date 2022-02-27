@@ -36,13 +36,7 @@
 ![Zuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZuberDunge&show_icons=true&count_private=true&theme=radical)
 <!-- ![Zuber's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuberDunge&layout=compact&theme=radical) -->
 
-  
-
-  
-  
-  
-  
-  
+   
   
  <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
