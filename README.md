@@ -1,6 +1,6 @@
 <div align=center>
   
-<a href="https://zuberdunge.vercel.app"><img src="images/GitHub-Banner-no-photo.svg" width="100%"></a>
+<a href="https://zuberdunge.tech"><img src="images/GitHub-Banner-no-photo.svg" width="100%"></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zuberdunge&label=Profile%20views&color=0e75b6&style=flat" alt="zuberdunge" /> </p>
 	
